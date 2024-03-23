@@ -1,0 +1,60 @@
+body {
+    font-family: 'Fredoka', sans-serif;
+}
+
+.section-top p {
+    border-bottom: 1px solid #d5d5d5;
+}
+
+.section-width-limited {
+    width: 800px;
+    margin: 0 auto;
+}
+
+h1, h2, h3 {
+    margin: 0;
+}
+
+.section-bg-cover {
+    min-height: 500px;
+    background-image: url('../assets/images/capa.jpg');
+    background-size: cover;
+}
+
+.section-bg-content {
+    text-align: rights;
+    padding: 50px 20px;
+}
+
+.section-content {
+    padding: 50px 20px;
+}
+
+.img-content {
+    width: 250px;
+    height: 180px;
+}
+
+.section-content span {
+    border-left: 1px solid;
+    padding-left: 10px;
+    font-size: 20px;
+}
+
+.section-bg-split {
+    background-image: url('../assets/images/fundo.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 50px 0;
+    text-align: center;
+}
+
+.section-bg-split h3 {
+    background-color: #fff;
+    border-radius: 20px;
+    width: 200px;
+    margin: 0 auto;
+    font-size: 36px;
+}
+
